@@ -1,6 +1,7 @@
 # ![alt text](https://user-images.githubusercontent.com/45703525/104408099-58d73c00-5574-11eb-9cc5-f073ba7c2c04.png) Instagram Scout
 [Download for Windows](https://github.com/Abaxoth/PoeMerchant/raw/master/Poe%20Merchant.zip)<br/>
 
+An application for automating actions on [Instagram](https://www.instagram.com/). You can create tasks to simulate user activity, among the possibilities:
 
 This is a trading automation application for Path of Exile.<br/>
 With the application, you will be able to track profitable prices for trading.<br/>
