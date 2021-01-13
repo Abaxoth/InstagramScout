@@ -8,11 +8,11 @@ An application for automating actions on [Instagram](https://www.instagram.com/)
 - Visiting
 
 For each task, you can create your own filters, which have many parameters, here are some of them:<br/>
-    • OnlyNoPrivateProfile - If true, then interaction only with users who have uploaded a profile picture<br/>
-    • OnlyNoFollowed - If true, then the interaction will occur only with profiles that you are not subscribed to<br/>
-    • FollowersRange - The minimum and maximum number of followers to start interaction<br/>
-    • FollowingsRange - The minimum and maximum number of followings to start interaction<br/>
-    • PostsRange - The minimum and maximum number of posts to start interaction<br/>
+- OnlyNoPrivateProfile - If true, then interaction only with users who have uploaded a profile picture<br/>
+- OnlyNoFollowed - If true, then the interaction will occur only with profiles that you are not subscribed to<br/>
+- FollowersRange - The minimum and maximum number of followers to start interaction<br/>
+- FollowingsRange - The minimum and maximum number of followings to start interaction<br/>
+- PostsRange - The minimum and maximum number of posts to start interaction<br/>
 
 This is a trading automation application for Path of Exile.<br/>
 With the application, you will be able to track profitable prices for trading.<br/>
