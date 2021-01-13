@@ -15,13 +15,7 @@ For each task, you can create your own filters, which have many parameters, here
 - PostsRange - The minimum and maximum number of posts to start interaction<br/>
 
 # Screenshots 0.1.0.3
-1) In the first image, you can see the interface that allows you to create an item monitoring application.<br/>
-2) In the second image, you can see the matching items. The buttons on the right allow you to:<br/>
-    • Ignore order<br/>
-    • Go to Train Trade page<br/>
-    • View details<br/>
-    • Create a purchase message<br/>
-    
+
 Creating task:<br/>
 <p align="left">
   <img src="https://user-images.githubusercontent.com/45703525/104409176-bd939600-5576-11eb-8d64-55b5843a40a2.PNG" width="400" title="Create a task"><br/>  
