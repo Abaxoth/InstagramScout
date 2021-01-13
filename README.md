@@ -14,12 +14,6 @@ For each task, you can create your own filters, which have many parameters, here
 - FollowingsRange - The minimum and maximum number of followings to start interaction<br/>
 - PostsRange - The minimum and maximum number of posts to start interaction<br/>
 
-This is a trading automation application for Path of Exile.<br/>
-With the application, you will be able to track profitable prices for trading.<br/>
-The notification system will allow you to instantly respond to a profitable offer<br/>
-To set up filters, just use the familiar [PoE Official Trade](https://www.pathofexile.com/trade/search), then copy and paste the link into the app to track price changes.<br/>
-There is also support for [Poe.Trade](https://poe.trade/) (Not recommended to use, slower than [PoE Official Trade](https://www.pathofexile.com/trade/search))<br/>
-
 # Screenshots 1.1.0.3
 1) In the first image, you can see the interface that allows you to create an item monitoring application.<br/>
 2) In the second image, you can see the matching items. The buttons on the right allow you to:<br/>
