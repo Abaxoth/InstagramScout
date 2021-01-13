@@ -2,7 +2,7 @@
 [Download for Windows](https://github.com/Abaxoth/PoeMerchant/raw/master/Poe%20Merchant.zip)<br/>
 
 An application for automating actions on [Instagram](https://www.instagram.com/). You can create tasks to simulate user activity, among the possibilities:<br/>
-    • Liking<br/>
+        • Liking<br/>
     • Following<br/>
     • Commenting<br/>
     • Visiting<br/>
