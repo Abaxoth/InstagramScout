@@ -22,8 +22,8 @@ For each task, you can create your own filters, which have many parameters, here
     • View details<br/>
     • Create a purchase message<br/>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45703525/104409176-bd939600-5576-11eb-8d64-55b5843a40a2.PNG" width="400" title="Create a request for product monitoring">
-  <img src="https://user-images.githubusercontent.com/45703525/104409178-be2c2c80-5576-11eb-9582-b9b7b40518f7.PNG" width="400" alt="Monitoring results">
+  <img src="https://user-images.githubusercontent.com/45703525/104409176-bd939600-5576-11eb-8d64-55b5843a40a2.PNG" width="400" title="Create a task"><br/>
+  <img src="https://user-images.githubusercontent.com/45703525/104409178-be2c2c80-5576-11eb-9582-b9b7b40518f7.PNG" width="400" alt="Task page"><br/>
 </p>
 
 # Coming Soon
