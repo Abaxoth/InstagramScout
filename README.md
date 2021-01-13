@@ -1,4 +1,4 @@
-# ![alt text](https://user-images.githubusercontent.com/45703525/89988517-52bcf680-dc88-11ea-9ae6-f7e4b09cf850.png) PoE Merchant
+# ![alt text](https://user-images.githubusercontent.com/45703525/104407896-c46cd980-5573-11eb-9508-22d5cf7f4271.jpg) Instagram Scout
 [Download for Windows](https://github.com/Abaxoth/PoeMerchant/raw/master/Poe%20Merchant.zip)<br/>
 [View on YouTube](https://www.youtube.com/watch?v=mz2RshLC5_8)<br/>
 
