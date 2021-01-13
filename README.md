@@ -2,6 +2,17 @@
 [Download for Windows](https://github.com/Abaxoth/PoeMerchant/raw/master/Poe%20Merchant.zip)<br/>
 
 An application for automating actions on [Instagram](https://www.instagram.com/). You can create tasks to simulate user activity, among the possibilities:
+    • Liking<br/>
+    • Following<br/>
+    • Commenting<br/>
+    • Visiting<br/>
+
+For each task, you can create your own filters, which have many parameters, here are some of them:
+    • OnlyNoPrivateProfile - If true, then interaction only with users who have uploaded a profile picture<br/>
+    • OnlyNoFollowed - If true, then the interaction will occur only with profiles that you are not subscribed to<br/>
+    • FollowersRange - The minimum and maximum number of followers to start interaction<br/>
+    • FollowingsRange - The minimum and maximum number of followings to start interaction<br/>
+    • PostsRange - The minimum and maximum number of posts to start interaction<br/>
 
 This is a trading automation application for Path of Exile.<br/>
 With the application, you will be able to track profitable prices for trading.<br/>
