@@ -2,10 +2,10 @@
 [Download for Windows](https://github.com/Abaxoth/PoeMerchant/raw/master/Poe%20Merchant.zip)<br/>
 
 An application for automating actions on [Instagram](https://www.instagram.com/). You can create tasks to simulate user activity, among the possibilities:<br/>
-   * • Liking<br/>
-    • Following<br/>
-    • Commenting<br/>
-    • Visiting<br/>
+- Liking
+- Following
+- Commenting
+- Visiting
 
 For each task, you can create your own filters, which have many parameters, here are some of them:<br/>
     • OnlyNoPrivateProfile - If true, then interaction only with users who have uploaded a profile picture<br/>
